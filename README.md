@@ -4,7 +4,7 @@ The WRPDB is a database of development projects in Waterloo Region. It is Compri
 ## Waterloo Regional Project Database - SQL DB
 Where raw project information is stored.
 
-## (Waterloo Regional Project Database Documentation - Doc)[https://docs.google.com/document/d/1SgoHqppS4mPvWYo3xxM5TN2dK5gT7a53H10pQitBC7g/edit?usp=drive_link]
+## [Waterloo Regional Project Database Documentation - Doc])(https://docs.google.com/document/d/1SgoHqppS4mPvWYo3xxM5TN2dK5gT7a53H10pQitBC7g/edit?usp=drive_link)
 Full documentation for the project.
 
 ## Waterloo Regional Project Database Input Form - Form
